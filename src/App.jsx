@@ -189,9 +189,6 @@ function App() {
           Open for opportunities and collaborations.
         </p>
         <div className="contact-buttons">
-          <button>
-            vanshsethi2121@gmail.com
-          </button>
           <a
             href="https://github.com/vanshpb"
             target="_blank"
